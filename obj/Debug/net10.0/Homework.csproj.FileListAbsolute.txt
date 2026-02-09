@@ -1,0 +1,14 @@
+/Users/user/Desktop/C# Cource/Day3/Hometask/Homework/obj/Debug/net10.0/Homework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/C# Cource/Day3/Hometask/Homework/obj/Debug/net10.0/Homework.AssemblyInfoInputs.cache
+/Users/user/Desktop/C# Cource/Day3/Hometask/Homework/obj/Debug/net10.0/Homework.AssemblyInfo.cs
+/Users/user/Desktop/C# Cource/Day3/Hometask/Homework/obj/Debug/net10.0/Homework.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/C# Cource/Day3/Hometask/Homework/bin/Debug/net10.0/Homework
+/Users/user/Desktop/C# Cource/Day3/Hometask/Homework/bin/Debug/net10.0/Homework.deps.json
+/Users/user/Desktop/C# Cource/Day3/Hometask/Homework/bin/Debug/net10.0/Homework.runtimeconfig.json
+/Users/user/Desktop/C# Cource/Day3/Hometask/Homework/bin/Debug/net10.0/Homework.dll
+/Users/user/Desktop/C# Cource/Day3/Hometask/Homework/bin/Debug/net10.0/Homework.pdb
+/Users/user/Desktop/C# Cource/Day3/Hometask/Homework/obj/Debug/net10.0/Homework.dll
+/Users/user/Desktop/C# Cource/Day3/Hometask/Homework/obj/Debug/net10.0/refint/Homework.dll
+/Users/user/Desktop/C# Cource/Day3/Hometask/Homework/obj/Debug/net10.0/Homework.pdb
+/Users/user/Desktop/C# Cource/Day3/Hometask/Homework/obj/Debug/net10.0/Homework.genruntimeconfig.cache
+/Users/user/Desktop/C# Cource/Day3/Hometask/Homework/obj/Debug/net10.0/ref/Homework.dll
