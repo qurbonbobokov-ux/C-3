@@ -142,7 +142,26 @@ Console.WriteLine(minVal + " + " + maxVal + " = " + (minVal + maxVal));
 */
 
 
+//7
 
+/*
+using System;
+
+void IncrementArrayElements(ref int[] arr, int value)
+{
+    for (int i = 0; i < arr.Length; i++)
+    {
+        arr[i] += value;
+    }
+}
+
+int[] arr = new int[] { 1, 2, 3 };
+
+IncrementArrayElements(ref arr, 5);
+
+Console.WriteLine("[" + string.Join(", ", arr) + "]");
+
+*/
 
 
 

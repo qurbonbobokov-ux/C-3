@@ -12,3 +12,4 @@
 /Users/user/Desktop/C# Cource/Day3/Hometask/Homework/obj/Debug/net10.0/Homework.pdb
 /Users/user/Desktop/C# Cource/Day3/Hometask/Homework/obj/Debug/net10.0/Homework.genruntimeconfig.cache
 /Users/user/Desktop/C# Cource/Day3/Hometask/Homework/obj/Debug/net10.0/ref/Homework.dll
+/Users/user/Desktop/C# Cource/Day3/Hometask/Homework/obj/Debug/net10.0/Homework.sourcelink.json
