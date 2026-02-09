@@ -141,6 +141,56 @@ Console.WriteLine(minVal + " + " + maxVal + " = " + (minVal + maxVal));
 
 */
 
+...//5
+
+/*
+ void Swap(ref int a, ref int b)
+ {
+     (a, b) = (b, a);
+ }
+ Console.Write("x = ");
+ int x = Convert.ToInt32(Console.ReadLine());
+ Console.Write("y = ");
+ int y = Convert.ToInt32(Console.ReadLine());
+ Swap(ref x, ref y);
+ Console.WriteLine("x = " + x);
+ Console.WriteLine("y = " + y);
+
+*/
+  //4
+  /*
+ int Pow(int x, int y)
+ {
+     return (int)Math.Pow(x,y);
+ }
+ Console.Write("x = ");
+ int x = Convert.ToInt32(Console.ReadLine());
+ Console.Write("y = ");
+ int y = Convert.ToInt32(Console.ReadLine());
+System.Console.WriteLine(Pow(x,y));
+
+*/
+
+
+//6
+/*
+int Divisors(int x)
+{ int cnt=0;
+    for(int i = 1; i <=x; i++)
+    {
+        if(x%i==0)
+        Console.Write(i+ " ");
+        cnt++;
+    }
+    return cnt;
+}
+int x = Convert.ToInt32(Console.ReadLine());
+Divisors(x);
+*/
+
+
+
+
 
 //7
 
@@ -162,26 +212,6 @@ IncrementArrayElements(ref arr, 5);
 Console.WriteLine("[" + string.Join(", ", arr) + "]");
 
 */
-
-
-
-//6
-/*
-int Divisors(int x)
-{ int cnt=0;
-    for(int i = 1; i <=x; i++)
-    {
-        if(x%i==0)
-        Console.Write(i+ " ");
-        cnt++;
-    }
-    return cnt;
-}
-int x = Convert.ToInt32(Console.ReadLine());
-Divisors(x);
-*/
-
-//7
 
 
 
